@@ -1,0 +1,49 @@
+.box-layout {
+    height: 242px;
+    position: relative;
+}
+.box-1 {
+    background:#03e5e5;
+    border: 1px solid #000;
+    border-radius: initial;
+    height: 63px;
+   position: absolute;
+   width: 133px;
+    left: 37px;
+    top: 85px;
+    z-index: 3;
+}
+.box-2
+{
+  background: #7b3f00;
+  border: 1px solid #000;
+  border-radius: initial;
+  height: 80px;
+  position: absolute;
+  width: 80px;
+  bottom: 116px;
+   left: 219px;
+}
+.box-3 {
+    background: #e30d0d;
+    border: 1px solid #000;
+    border-radius: initial;
+    height: 110px;
+    position: absolute;
+    width: 87px;
+    left: 130px;
+    bottom: 36px;
+    z-index: 2;
+}
+.box-4 {
+    background: #1000ff;
+    border: 1px solid #000;
+    border-radius: initial;
+    height: 109px;
+    position: absolute;
+    width: 160px;
+    bottom: 36px;
+    left: 218px;
+    z-index: 1;
+}
+
